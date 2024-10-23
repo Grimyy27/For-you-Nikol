@@ -1,0 +1,18 @@
+body{
+	background:white;
+	font-family: Poppins;
+}
+
+
+.kilig img{
+				width: 200px;
+}
+
+.kilig{
+	            background:brown;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				gap:3em;
+}
